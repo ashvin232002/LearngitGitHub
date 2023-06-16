@@ -1,0 +1,21 @@
+//step  1  : GO  TO GITHUB DESKTOP  AND CREATE ACCOUNT
+//STEP  2  : CREATE NEW REPOSITORY
+//STEP  3  : FOLLOW THE STEPS WHICH WOULD BE GIVEN
+           3.1 git init
+           3.2 ADD README FILE
+           3.3 Intial commit
+           3.4 Add remote origin
+           3.5 push the commit
+
+//STEP 4   : IN CASE YOU GOT ERROR BECAUSE OF FIRST TIME
+           //run this command in your terminal
+
+           //4.1 git config --global user.name "enter Username here"
+           //4.2 git config --global user.email "enter the useremail here"
+           
+//In case still error
+     //1 . Go to Settings
+     //2 . Devloper Settings
+     //3 . Personal Access Token  -> Token(classic)
+     //4 . Generate new Token and give all permissions
+     //5 . use that token as a password
